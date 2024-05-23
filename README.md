@@ -20,3 +20,16 @@ Code at least an hour every day for the next 100 days
 
 
 ## 100 Days of Code log
+<details>
+  <summary>Day 1 : 24 May</summary>
+  Time spent: 7.5h
+  
+  1. Completed course 7/9 of Meta Front-End Developer Professional Certificate ⭐️
+  2. Earned Principles of UX/ UI Design certificates ⭐️
+  3. Followed a tutorial on making currency convertor with react
+  4. Organised my repo and profile page on Github
+  5. Joined #100daysofcode on discord
+  6. Watch a couple youtube videos on local hosting (not that i am going to do it anytime soon or ever)
+
+Thought: Have been sick for a few days now but all of sudden have this burst of energy working on programming, very hyped right now. Was suppose to sleep at 10 and here i am, editing my challenge readme at 1 am. Im really enjoying this.
+</details>
