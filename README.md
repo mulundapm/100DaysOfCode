@@ -26,7 +26,7 @@ Code at least an hour every day for the next 100 days
   
   1. Completed course 7/9 of Meta Front-End Developer Professional Certificate ⭐️
   2. Earned Principles of UX/ UI Design certificates ⭐️
-  3. Followed a tutorial on making currency convertor with react
+  3. Followed a tutorial on making currency convertor with react (used an API key for the first time)
   4. Organised my repo and profile page on Github
   5. Joined #100daysofcode on discord
   6. Watch a couple youtube videos on local hosting (not that i am going to do it anytime soon or ever)
