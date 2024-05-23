@@ -21,7 +21,7 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
-  <summary>Day 1 : 24 May</summary>
+  <summary>Day 1 : 24 May (Thursday)</summary>
   Time spent: 7.5h
   
   1. Completed course 7/9 of Meta Front-End Developer Professional Certificate ⭐️
