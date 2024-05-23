@@ -7,6 +7,7 @@ Code at least an hour every day for the next 100 days
 - Build at least 1 project/ feature per week
 - Create fullstack projects for my pofolio
 - Get a hang of framework like tailwind and package management
+- Complete my presentable profolio
 - Starting on my mega-project idea
 
 ## Completed Projects
