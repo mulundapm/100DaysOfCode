@@ -9,7 +9,7 @@ Code at least an hour every day for the next 100 days
 - Get a hang of framework like tailwind and package management
 - Complete my presentable profolio
 - Create a library for iOS Shortcuts
-- Starting on my mega-project idea
+- Start on my scavenger project
 
 ## Completed Projects
 | No.  | Projects Title | Completed On | Language/ Tools used |
