@@ -11,15 +11,17 @@ Code at least an hour every day for the next 100 days
 - Create a library for iOS Shortcuts
 - Start on my scavenger project
 
-## Completed Projects
-| No.  | Projects Title | Completed On | Language/ Tools used |
+## Projects
+| No.  | Projects Title | Completed On | Language/ Tools used | 
 | ------------- | ------------- |------------- |------------- |
 | 1 | [Todo list](https://github.com/mulundapm/jff-projects/tree/main/Todo%20list) | 25 April 2024 | HTML, CSS, JS, Tailwind
 | 2 | [Click game](https://github.com/mulundapm/jff-projects/tree/main/Click%20game) | 25 April 2024 | HTML, JS
 | 3 | [Calculator](https://github.com/mulundapm/jff-projects/tree/main/Calculator) | 10 May 2024 | HTML, CSS, JS
-| 4 | [Memory game](https://github.com/mulundapm/jff-projects/tree/main/memo-game) | 15. May 2024 | JSX, CSS, JS, React
-| 5 | [Currency convertor](https://github.com/mulundapm/jff-projects/tree/main/Calculator) | 24. May 2024 | JSX, CSS, JS, React
+| 4 | [Memory game](https://github.com/mulundapm/jff-projects/tree/main/memo-game) | 15. May 2024 | CSS, React
+| 5 | [Currency convertor](https://github.com/mulundapm/jff-projects/tree/main/Calculator) | 24. May 2024 | CSS, React
 | 6 | [Currency convertor vanilla](https://github.com/mulundapm/jff-projects/tree/main/Currency%20vanilla) | 25. May 2024 | HTML, CSS, JS
+| 7 | [Restaurant booking app](https://github.com/mulundapm/restaurant-booking) | Ongoing | CSS, React
+
 
 
 
