@@ -37,11 +37,12 @@ Thought: Have been sick for a few days now but all of sudden have this burst of 
 </details>
 <details>
   <summary>Day 2 : 25 May (Friday)</summary>
-  Time spent: 2h
+  Time spent: 3.5h
   
   1. Started on the capstone module of Meta Front-End Developer Professional Certificate
   2. Learned how to make a drop-down component with animation in figma
   3. Learned how to secure an api key on an open repo
+  4. Started on making a convertor without tutorial. stopped after all currency loaded as an option
 
 Thought: Slow progress today. Hiding api keys seems very complicated yesterday but turns out its pretty straight forward. Got scared by all those long reddits post on this topic.
 </details>
