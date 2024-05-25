@@ -25,7 +25,7 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
-  <summary>Day 1 : 24 May (Thursday)</summary>
+  <summary>Day 1 : 23 May (Thursday)</summary>
   Time spent: 7.5h
   
   1. Completed course 7/9 of Meta Front-End Developer Professional Certificate ⭐️
@@ -38,7 +38,7 @@ Code at least an hour every day for the next 100 days
 Thought: Have been sick for a few days now but all of sudden have this burst of energy working on programming, very hyped right now. Was suppose to sleep at 10 and here i am, editing my challenge readme at 1 am. Im really enjoying this.
 </details>
 <details>
-  <summary>Day 2 : 25 May (Friday)</summary>
+  <summary>Day 2 : 24 May (Friday)</summary>
   Time spent: 3.5h
   
   1. Started on the capstone module of Meta Front-End Developer Professional Certificate
@@ -47,4 +47,15 @@ Thought: Have been sick for a few days now but all of sudden have this burst of 
   4. Started on making a convertor without tutorial. stopped after all currency loaded as an option
 
 Thought: Slow progress today. Hiding api keys seems very complicated yesterday but turns out its pretty straight forward. Got scared by all those long reddits post on this topic.
+</details>
+<details>
+  <summary>Day 3 : 25 May (Saturday)</summary>
+  Time spent: 6h
+  
+  1. Continued on capstone module of Meta Front-End Developer Professional Certificate
+  2. Started on a restaurant reservation app as my capstone project, created half of the home page
+  3. Completed a currency convertor without tutorial.
+  4. Struggled a bit with setting up new repo and git for the project
+
+Thought: Coded the whole day without watching tutorial to pratise my googling skills, went pretty well. Putting focus on writing css today for the first time, not as itimidating as I thought itd be. 
 </details>
