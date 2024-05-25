@@ -52,9 +52,9 @@ Thought: Slow progress today. Hiding api keys seems very complicated yesterday b
   <summary>Day 3 : 25 May (Saturday)</summary>
   Time spent: 6h
   
-  1. Continued on capstone module of Meta Front-End Developer Professional Certificate
-  2. Started on a restaurant reservation app as my capstone project, created half of the home page
-  3. Completed a currency convertor without tutorial.
+  1. Continued on course 8/9 of Meta Front-End Developer Professional Certificate
+  2. Started on a restaurant reservation react app as my capstone project, created half of the home page
+  3. Completed a vanilla js currency convertor without tutorial
   4. Struggled a bit with setting up new repo and git for the project
 
 Thought: Coded the whole day without watching tutorial to pratise my googling skills, went pretty well. Putting focus on writing css today for the first time, not as itimidating as I thought itd be. 
