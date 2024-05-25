@@ -53,7 +53,7 @@ Thought: Slow progress today. Hiding api keys seems very complicated yesterday b
   Time spent: 4.5h
   
   1. Continued on course 8/9 of Meta Front-End Developer Professional Certificate
-  2. Started on a restaurant reservation react app as my capstone project, created half of the home page
+  2. Started on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking) as my course capstone project, created half of the home page
   3. Completed a vanilla js currency convertor without tutorial
   4. Struggled a bit with setting up new repo and git for the project
 
