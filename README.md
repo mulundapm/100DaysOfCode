@@ -50,7 +50,7 @@ Thought: Slow progress today. Hiding api keys seems very complicated yesterday b
 </details>
 <details>
   <summary>Day 3 : 25 May (Saturday)</summary>
-  Time spent: 6h
+  Time spent: 4.5h
   
   1. Continued on course 8/9 of Meta Front-End Developer Professional Certificate
   2. Started on a restaurant reservation react app as my capstone project, created half of the home page
