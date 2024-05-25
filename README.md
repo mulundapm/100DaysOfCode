@@ -19,6 +19,8 @@ Code at least an hour every day for the next 100 days
 | 3 | [Calculator](https://github.com/mulundapm/jff-projects/tree/main/Calculator) | 10 May 2024 | HTML, CSS, JS
 | 4 | [Memory game](https://github.com/mulundapm/jff-projects/tree/main/memo-game) | 15. May 2024 | JSX, CSS, JS, React
 | 5 | [Currency convertor](https://github.com/mulundapm/jff-projects/tree/main/Calculator) | 24. May 2024 | JSX, CSS, JS, React
+| 6 | [Currency convertor vanilla](https://github.com/mulundapm/jff-projects/tree/main/Currency%20vanilla) | 25. May 2024 | HTML, CSS, JS
+
 
 
 ## 100 Days of Code log
