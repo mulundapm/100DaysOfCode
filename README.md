@@ -63,10 +63,10 @@ Thought: Coded the whole day without watching tutorial to pratise my googling sk
 </details>
 <details>
   <summary>Day 4 : 26 May (Sunday)</summary>
-  Time spent: 4h
+  Time spent: 5.5h
   
-  1. Continued on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking), completed the pages set up. Will be working setting up states next
+  1. Continued on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking), completed the pages set up and the states of input, will be working on context next to share data between pages
   2. Learned more about dom manipulation
 
-Thought: My back is keeping me from sitting by the desk for more than 1.5h. Going out for a walk now and will see if i can do some more today. 
+Thought: Spent a lot of time googling and fixing errors today since im new in working with states, ngl, was pretty frustrated at some points but getting through these is what makes the difference. 
 </details>
