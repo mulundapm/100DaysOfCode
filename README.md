@@ -61,3 +61,12 @@ Thought: Slow progress today. Hiding api keys seems very complicated yesterday b
 
 Thought: Coded the whole day without watching tutorial to pratise my googling skills, went pretty well. Putting focus on writing css today for the first time, not as itimidating as I thought itd be. 
 </details>
+<details>
+  <summary>Day 4 : 26 May (Sunday)</summary>
+  Time spent: 4h
+  
+  1. Continued on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking), completed the pages set up. Will be working setting up states next
+  2. Learned more about dom manipulation
+
+Thought: My back is keeping me from sitting by the desk for more than 1.5h. Going out for a walk now and will see if i can do some more today. 
+</details>
