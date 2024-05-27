@@ -70,3 +70,12 @@ Thought: Coded the whole day without watching tutorial to pratise my googling sk
 
 Thought: Spent a lot of time googling and fixing errors today since im new in working with states, ngl, was pretty frustrated at some points but getting through these is what makes the difference. 
 </details>
+<details>
+  <summary>Day 5 : 27 May (Monday)</summary>
+  Time spent: 1.25h
+  
+  Continued on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking)
+    1. used useLocation and useNavigate hook to share states between pages
+
+Thought: Was hoping to use context api to share states between booking and confirmation page but got stuck. Chatgpt suggested using useLocation and useNavigate, it seems simple so i went for it. I should have invested more time on researching because after using those 2 hooks, not quite satisfied with the result since the states are not global. Will be investing more time next time to research and rewrite this using context api. 
+</details>
