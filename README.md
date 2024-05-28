@@ -80,3 +80,14 @@ Thought: Spent a lot of time googling and fixing errors today since im new in wo
 
 Thought: Was hoping to use context api to share states between booking and confirmation page but got stuck. Chatgpt suggested using useLocation and useNavigate, it seems simple so i went for it. Boy was I wrong for that. When done, not quite satisfied since the states are not global. Will be investing more time next time to do research and rewrite this using context api. 
 </details>
+<details>
+  <summary>Day 6 : 28 May (Tuesday)</summary>
+  Time spent: 2h
+  
+  Continued on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking)
+    
+  -used context api to pass states
+
+Thought: have to do more practise on context api since still not comfortable with it. Spent 30min+ on error "React Router: Cannot read property 'pathname' of undefined" turns out it matters on the order of BrowserRouter import - Router, Routes, Route. Something so minor yet critical with a terrible error message.. :)
+</details>
+
