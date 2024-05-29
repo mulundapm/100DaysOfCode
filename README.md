@@ -88,6 +88,16 @@ Thought: Was hoping to use context api to share states between booking and confi
     
   -used context api to pass states
 
-Thought: have to do more practise on context api since still not comfortable with it. Spent 30min+ on error "React Router: Cannot read property 'pathname' of undefined" turns out it matters on the order of BrowserRouter import - Router, Routes, Route. Something so minor yet critical with a terrible error message.. :)
+Thought: have to do more practise on context api since still not comfortable with it. Spent 30min+ on error "React Router: Cannot read property 'pathname' of undefined". Turns out it matters on the order of BrowserRouter import - Router, Routes, Route. Something so minor yet critical with a terrible error message.. :)
+</details>
+<details>
+  <summary>Day 7 : 29 May (Wed)</summary>
+  Time spent: 2h
+  
+  Continued on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking)
+    
+  -adding an unit test for handleSubmit function
+
+Thought: spent majority of the time debugging. A simple test, from 5 errors down to 2 now. Struggling with the last 2, will continue tmr. :')
 </details>
 
