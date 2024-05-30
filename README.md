@@ -100,4 +100,14 @@ Thought: have to do more practise on context api since still not comfortable wit
 
 Thought: spent majority of the time debugging. A simple test, from 5 errors down to 2 now. Struggling with the last 2, will continue tmr. :')
 </details>
+<details>
+  <summary>Day 8 : 30 May (Thur)</summary>
+  Time spent: 1h
+  
+  Continued on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking)
+    
+  -error fixing on unit test for handleSubmit function
+
+Thought: Not much of a progress today, still struggling with the errors. 6min late and lost my gh streak
+</details>
 
