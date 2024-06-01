@@ -112,7 +112,7 @@ Thought: Not much of a progress today, still struggling with the errors. 6min la
 </details>
 <details>
   <summary>Day 9 : 31 May (Fri)</summary>
-  Time spent: 1h
+  Time spent: 2h
   
   Continued on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking)
     
