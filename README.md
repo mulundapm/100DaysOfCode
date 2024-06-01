@@ -126,8 +126,8 @@ Thought: It was quite a long journey in figuring out whats wrong, not entirely u
   
   - Completed on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking)
   - Completed Completed course 8/9 of Meta Front-End Developer Professional Certificate ⭐️
-  - Started on 9/9 of Meta Front-End Developer Professional Certificate ⭐️
-  - Learned about space and time complexity
+  - Started on 9/9 of Meta Front-End Developer Professional Certificate 
+  - Learned about the concept of space and time complexity
 
 Thought: Defintely have to come back to the restaurant app but its enough the pass the course for now. Soon done with the front-end course!  
 </details>
