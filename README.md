@@ -110,4 +110,14 @@ Thought: spent majority of the time debugging. A simple test, from 5 errors down
 
 Thought: Not much of a progress today, still struggling with the errors. 6min late and lost my gh streak
 </details>
+<details>
+  <summary>Day 9 : 31 May (Fri)</summary>
+  Time spent: 1h
+  
+  Continued on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking)
+    
+  -finally done with writing unit test
+
+Thought: It was quite a long journey in figuring out whats wrong, not entirely understand each of the error so will circle back to this topic soon. 
+</details>
 
