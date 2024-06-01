@@ -120,4 +120,15 @@ Thought: Not much of a progress today, still struggling with the errors. 6min la
 
 Thought: It was quite a long journey in figuring out whats wrong, not entirely understand each of the error so will circle back to this topic soon. 
 </details>
+<details>
+  <summary>Day 10 : 1 June (Sat)</summary>
+  Time spent: 5h
+  
+  - Completed on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking)
+  - Completed Completed course 8/9 of Meta Front-End Developer Professional Certificate ⭐️
+  - Started on 9/9 of Meta Front-End Developer Professional Certificate ⭐️
+  - Learned about space and time complexity
+
+Thought: Defintely have to come back to the restaurant app but its enough the pass the course for now. Soon done with the front-end course!  
+</details>
 
