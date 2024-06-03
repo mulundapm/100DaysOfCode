@@ -140,4 +140,13 @@ Thought: Defintely have to come back to the restaurant app but its enough the pa
 
 Thought: Was very dedicated to have finish the certificate this weekend so went all in and studied. Happy that im done, still not sure if i would want to continue as a frontend developer but defintely have to include more features into my project. Learned about the data structure and different algorithm, those looks really fun to work with, will look a bit more into system development.  
 </details>
+<details>
+  <summary>Day 12 : 3 June (Mon)</summary>
+  Time spent: 1h
+  
+  - Started on CS50, week 0
+  - Learned about base 64 encoding
+
+Thought: Just finished frontend course and moving to cs50. So far I already know majority of the things taught in week 0. Thinking if i should continue on cs50 or put my full focus on building projects out of the frontend course I just did... or would it be better if i do both at the same time? 
+</details>
 
