@@ -147,6 +147,6 @@ Thought: Was very dedicated to have finish the certificate this weekend so went 
   - Started on CS50, week 0
   - Learned about base 64 encoding
 
-Thought: Just finished frontend course and moving to cs50. So far I already know majority of the things taught in week 0. Thinking if i should continue on cs50 or put my full focus on building projects out of the frontend course I just did... or would it be better if i do both at the same time? 
+Thought: Thinking if i should continue on cs50 or put my full focus on building projects out of the frontend course I just did... or would it be better if i do both at the same time? or should I stay focus on one thing? 
 </details>
 
