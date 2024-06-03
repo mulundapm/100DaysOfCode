@@ -2,7 +2,7 @@
 Code at least an hour every day for the next 100 days
 
 ## Goal
-- Complete Meta Front-End Developer Professional Certificate
+- ~~Complete Meta Front-End Developer Professional Certificate~~
 - Complete CS50 course
 - Build at least 1 project/ feature per week
 - Create fullstack projects for my pofolio
@@ -130,5 +130,14 @@ Thought: It was quite a long journey in figuring out whats wrong, not entirely u
   - Learned about the concept of space and time complexity
 
 Thought: Defintely have to come back to the restaurant app but its enough the pass the course for now. Soon done with the front-end course!  
+</details>
+<details>
+  <summary>Day 11 : 2 June (Sun)</summary>
+  Time spent: 3.5h
+  
+  - Completed Meta Front-End Developer Professional Certificate ⭐
+  - Learned about data structure, sorting and searching algorithm
+
+Thought: Was very dedicated to have finish the certificate this weekend so went all in and studied. Happy that im done, still not sure if i would want to continue as a frontend developer but defintely have to include more features into my project. Learned about the data structure and different algorithm, those looks really fun to work with, will look a bit more into system development.  
 </details>
 
