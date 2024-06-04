@@ -149,4 +149,13 @@ Thought: Was very dedicated to have finish the certificate this weekend so went 
 
 Thought: Thinking if i should continue on cs50 or put my full focus on building projects out of the frontend course I just did... or would it be better if i do both at the same time? or should I stay focus on one thing? 
 </details>
+<details>
+  <summary>Day 13 : 4 June (Tue)</summary>
+  Time spent: 1h15min
+  
+  - Load menu item dynamically instead of hardcoding
+  - Rearrange the folder structure to make it more organised to build new features on
+
+Thought: Decided to put focus on building projects, to build up the front-end skills instead of doing another course actively. Well, I can still watch cs50 like a movie when I want to chill, but when im around pc, i have to code. 
+</details>
 
