@@ -34,7 +34,7 @@ Code at least an hour every day for the next 100 days
   - Load differents image per menu item
   - Added a list of filters on the menu based on the food item's category
 
-Thought: Decided to put focus on building projects, to build up the front-end skills instead of doing another course actively. Well, I can still watch cs50 like a movie when I want to chill, but when im around pc, i have to code. 
+Thought: None, just that ive been really excited the whole day about coming home to code since im free tonight
 </details>
 <details>
   <summary>Day 13 : 4 June (Tue)</summary>
