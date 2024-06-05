@@ -27,98 +27,40 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
-  <summary>Day 1 : 23 May (Thursday)</summary>
-  Time spent: 7.5h
-  
-  1. Completed course 7/9 of Meta Front-End Developer Professional Certificate ⭐️
-  2. Earned Principles of UX/ UI Design certificates ⭐️
-  3. Followed a tutorial on making currency convertor with react (used an API key for the first time)
-  4. Organised my repo and profile page on Github
-  5. Joined #100daysofcode on discord
-  6. Watch a couple youtube videos on local hosting (not that i am going to do it anytime soon or ever)
+  <summary>Day 14 : 5 June (Wed)</summary>
+  Time spent: 2h45min
+  Continued on the restaurant app
+  - Load differents image per menu item
+  - Added a list of filters on the menu based on the food item's category
 
-Thought: Have been sick for a few days now but all of sudden have this burst of energy working on programming, very hyped right now. Was suppose to sleep at 10 and here i am, editing my challenge readme at 1 am. Im really enjoying this.
+Thought: Decided to put focus on building projects, to build up the front-end skills instead of doing another course actively. Well, I can still watch cs50 like a movie when I want to chill, but when im around pc, i have to code. 
 </details>
 <details>
-  <summary>Day 2 : 24 May (Friday)</summary>
-  Time spent: 3.5h
+  <summary>Day 13 : 4 June (Tue)</summary>
+  Time spent: 1h15min
   
-  1. Started on the capstone module of Meta Front-End Developer Professional Certificate
-  2. Learned how to make a drop-down component with animation in figma
-  3. Learned how to secure an api key on an open repo
-  4. Started on making a convertor without tutorial. stopped after all currency loaded as an option
+  - Load menu item dynamically instead of hardcoding
+  - Rearrange the folder structure to make it more organised to build new features on
 
-Thought: Slow progress today. Hiding api keys seems very complicated yesterday but turns out its pretty straight forward. Got scared by all those long reddits post on this topic.
+Thought: Decided to put focus on building projects, to build up the front-end skills instead of doing another course actively. Well, I can still watch cs50 like a movie when I want to chill, but when im around pc, i have to code. 
 </details>
 <details>
-  <summary>Day 3 : 25 May (Saturday)</summary>
-  Time spent: 4.5h
-  
-  1. Continued on course 8/9 of Meta Front-End Developer Professional Certificate
-  2. Started on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking) as my course capstone project, created half of the home page
-  3. Completed a vanilla js currency convertor without tutorial
-  4. Struggled a bit with setting up new repo and git for the project
-
-Thought: Coded the whole day without watching tutorial to pratise my googling skills, went pretty well. Putting focus on writing css today for the first time, not as itimidating as I thought itd be. 
-</details>
-<details>
-  <summary>Day 4 : 26 May (Sunday)</summary>
-  Time spent: 5.5h
-  
-  1. Continued on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking), completed the pages set up and the states of input, will be working on context next to share data between pages
-  2. Learned more about dom manipulation
-
-Thought: Spent a lot of time googling and fixing errors today since im new in working with states, ngl, was pretty frustrated at some points but getting through these is what makes the difference. 
-</details>
-<details>
-  <summary>Day 5 : 27 May (Monday)</summary>
-  Time spent: 1.25h
-  
-  Continued on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking)
-    
-  -used useLocation and useNavigate hook to share states between pages
-
-Thought: Was hoping to use context api to share states between booking and confirmation page but got stuck. Chatgpt suggested using useLocation and useNavigate, it seems simple so i went for it. Boy was I wrong for that. When done, not quite satisfied since the states are not global. Will be investing more time next time to do research and rewrite this using context api. 
-</details>
-<details>
-  <summary>Day 6 : 28 May (Tuesday)</summary>
-  Time spent: 2h
-  
-  Continued on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking)
-    
-  -used context api to pass states
-
-Thought: have to do more practise on context api since still not comfortable with it. Spent 30min+ on error "React Router: Cannot read property 'pathname' of undefined". Turns out it matters on the order of BrowserRouter import - Router, Routes, Route. Something so minor yet critical with a terrible error message.. :)
-</details>
-<details>
-  <summary>Day 7 : 29 May (Wed)</summary>
-  Time spent: 2h
-  
-  Continued on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking)
-    
-  -adding an unit test for handleSubmit function
-
-Thought: spent majority of the time debugging. A simple test, from 5 errors down to 2 now. Struggling with the last 2, will continue tmr. :')
-</details>
-<details>
-  <summary>Day 8 : 30 May (Thur)</summary>
+  <summary>Day 12 : 3 June (Mon)</summary>
   Time spent: 1h
   
-  Continued on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking)
-    
-  -error fixing on unit test for handleSubmit function
+  - Started on CS50, week 0
+  - Learned about base 64 encoding
 
-Thought: Not much of a progress today, still struggling with the errors. 6min late and lost my gh streak
+Thought: Thinking if i should continue on cs50 or put my full focus on building projects out of the frontend course I just did... or would it be better if i do both at the same time? or should I stay focus on one thing? 
 </details>
 <details>
-  <summary>Day 9 : 31 May (Fri)</summary>
-  Time spent: 2h
+  <summary>Day 11 : 2 June (Sun)</summary>
+  Time spent: 3.5h
   
-  Continued on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking)
-    
-  -finally done with writing unit test
+  - Completed Meta Front-End Developer Professional Certificate ⭐
+  - Learned about data structure, sorting and searching algorithm
 
-Thought: It was quite a long journey in figuring out whats wrong, not entirely understand each of the error so will circle back to this topic soon. 
+Thought: Was very dedicated to have finish the certificate this weekend so went all in and studied. Happy that im done, still not sure if i would want to continue as a frontend developer but defintely have to include more features into my project. Learned about the data structure and different algorithm, those looks really fun to work with, will look a bit more into system development.  
 </details>
 <details>
   <summary>Day 10 : 1 June (Sat)</summary>
@@ -132,30 +74,109 @@ Thought: It was quite a long journey in figuring out whats wrong, not entirely u
 Thought: Defintely have to come back to the restaurant app but its enough the pass the course for now. Soon done with the front-end course!  
 </details>
 <details>
-  <summary>Day 11 : 2 June (Sun)</summary>
-  Time spent: 3.5h
+  <summary>Day 9 : 31 May (Fri)</summary>
+  Time spent: 2h
   
-  - Completed Meta Front-End Developer Professional Certificate ⭐
-  - Learned about data structure, sorting and searching algorithm
+  Continued on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking)
+    
+  -finally done with writing unit test
 
-Thought: Was very dedicated to have finish the certificate this weekend so went all in and studied. Happy that im done, still not sure if i would want to continue as a frontend developer but defintely have to include more features into my project. Learned about the data structure and different algorithm, those looks really fun to work with, will look a bit more into system development.  
+Thought: It was quite a long journey in figuring out whats wrong, not entirely understand each of the error so will circle back to this topic soon. 
 </details>
 <details>
-  <summary>Day 12 : 3 June (Mon)</summary>
+  <summary>Day 8 : 30 May (Thur)</summary>
   Time spent: 1h
   
-  - Started on CS50, week 0
-  - Learned about base 64 encoding
+  Continued on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking)
+    
+  -error fixing on unit test for handleSubmit function
 
-Thought: Thinking if i should continue on cs50 or put my full focus on building projects out of the frontend course I just did... or would it be better if i do both at the same time? or should I stay focus on one thing? 
+Thought: Not much of a progress today, still struggling with the errors. 6min late and lost my gh streak
 </details>
 <details>
-  <summary>Day 13 : 4 June (Tue)</summary>
-  Time spent: 1h15min
+  <summary>Day 7 : 29 May (Wed)</summary>
+  Time spent: 2h
   
-  - Load menu item dynamically instead of hardcoding
-  - Rearrange the folder structure to make it more organised to build new features on
+  Continued on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking)
+    
+  -adding an unit test for handleSubmit function
 
-Thought: Decided to put focus on building projects, to build up the front-end skills instead of doing another course actively. Well, I can still watch cs50 like a movie when I want to chill, but when im around pc, i have to code. 
+Thought: spent majority of the time debugging. A simple test, from 5 errors down to 2 now. Struggling with the last 2, will continue tmr. :')
 </details>
+<details>
+  <summary>Day 6 : 28 May (Tuesday)</summary>
+  Time spent: 2h
+  
+  Continued on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking)
+    
+  -used context api to pass states
+
+Thought: have to do more practise on context api since still not comfortable with it. Spent 30min+ on error "React Router: Cannot read property 'pathname' of undefined". Turns out it matters on the order of BrowserRouter import - Router, Routes, Route. Something so minor yet critical with a terrible error message.. :)
+</details>
+<details>
+  <summary>Day 5 : 27 May (Monday)</summary>
+  Time spent: 1.25h
+  
+  Continued on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking)
+    
+  -used useLocation and useNavigate hook to share states between pages
+
+Thought: Was hoping to use context api to share states between booking and confirmation page but got stuck. Chatgpt suggested using useLocation and useNavigate, it seems simple so i went for it. Boy was I wrong for that. When done, not quite satisfied since the states are not global. Will be investing more time next time to do research and rewrite this using context api. 
+</details>
+<details>
+  <summary>Day 4 : 26 May (Sunday)</summary>
+  Time spent: 5.5h
+  
+  1. Continued on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking), completed the pages set up and the states of input, will be working on context next to share data between pages
+  2. Learned more about dom manipulation
+
+Thought: Spent a lot of time googling and fixing errors today since im new in working with states, ngl, was pretty frustrated at some points but getting through these is what makes the difference. 
+</details>
+<details>
+  <summary>Day 3 : 25 May (Saturday)</summary>
+  Time spent: 4.5h
+  
+  1. Continued on course 8/9 of Meta Front-End Developer Professional Certificate
+  2. Started on a [restaurant reservation react app](https://github.com/mulundapm/restaurant-booking) as my course capstone project, created half of the home page
+  3. Completed a vanilla js currency convertor without tutorial
+  4. Struggled a bit with setting up new repo and git for the project
+
+Thought: Coded the whole day without watching tutorial to pratise my googling skills, went pretty well. Putting focus on writing css today for the first time, not as itimidating as I thought itd be. 
+</details>
+<details>
+  <summary>Day 2 : 24 May (Friday)</summary>
+  Time spent: 3.5h
+  
+  1. Started on the capstone module of Meta Front-End Developer Professional Certificate
+  2. Learned how to make a drop-down component with animation in figma
+  3. Learned how to secure an api key on an open repo
+  4. Started on making a convertor without tutorial. stopped after all currency loaded as an option
+
+Thought: Slow progress today. Hiding api keys seems very complicated yesterday but turns out its pretty straight forward. Got scared by all those long reddits post on this topic.
+</details>
+<details>
+  <summary>Day 1 : 23 May (Thursday)</summary>
+  Time spent: 7.5h
+  
+  1. Completed course 7/9 of Meta Front-End Developer Professional Certificate ⭐️
+  2. Earned Principles of UX/ UI Design certificates ⭐️
+  3. Followed a tutorial on making currency convertor with react (used an API key for the first time)
+  4. Organised my repo and profile page on Github
+  5. Joined #100daysofcode on discord
+  6. Watch a couple youtube videos on local hosting (not that i am going to do it anytime soon or ever)
+
+Thought: Have been sick for a few days now but all of sudden have this burst of energy working on programming, very hyped right now. Was suppose to sleep at 10 and here i am, editing my challenge readme at 1 am. Im really enjoying this.
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
 
