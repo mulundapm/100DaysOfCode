@@ -29,6 +29,7 @@ Code at least an hour every day for the next 100 days
 <details>
   <summary>Day 14 : 5 June (Wed)</summary>
   Time spent: 2h45min
+  
   Continued on the restaurant app
   - Load differents image per menu item
   - Added a list of filters on the menu based on the food item's category
