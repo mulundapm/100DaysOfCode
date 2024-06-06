@@ -27,6 +27,15 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 15 : 6 June (Thur)</summary>
+  Time spent: 1h
+  
+  Continued on the restaurant app
+  - Load dynamic pills based on unique category values
+
+Thought: ran into a lot of error that i never encountered before, which i guess is good since i get to learn more from them
+</details>
+<details>
   <summary>Day 14 : 5 June (Wed)</summary>
   Time spent: 2h45min
   
