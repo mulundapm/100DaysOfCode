@@ -31,7 +31,7 @@ Code at least an hour every day for the next 100 days
   Time spent: 1h
   
   Continued on the restaurant app
-  - continue on loading dynamic pills based on unique category values
+  - completed on dynamic pills
 
 Thought: 
 </details>
