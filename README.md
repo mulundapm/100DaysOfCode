@@ -31,9 +31,9 @@ Code at least an hour every day for the next 100 days
   Time spent: 1h
   
   Continued on the restaurant app
-  - completed on dynamic pills
+  - Dynamically load categories pills for menuItem
 
-Thought: 
+Thought: Encounted infinity rendering error which helped me to understand the concept of states and useEffect better
 </details>
 <details>
   <summary>Day 15 : 6 June (Thur)</summary>
