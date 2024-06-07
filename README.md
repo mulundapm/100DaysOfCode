@@ -27,13 +27,13 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
-  <summary>Day 15 : 7 June (Fri)</summary>
+  <summary>Day 16 : 7 June (Fri)</summary>
   Time spent: 1h
   
   Continued on the restaurant app
   - Dynamically load categories pills for menuItem
 
-Thought: Encounted infinity rendering error which helped me to understand the concept of states and useEffect better
+Thought: Encountered infinity rendering error which helped me to understand the concept of states and useEffect better
 </details>
 <details>
   <summary>Day 15 : 6 June (Thur)</summary>
