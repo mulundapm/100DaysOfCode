@@ -30,10 +30,10 @@ Code at least an hour every day for the next 100 days
   <summary>Day 17 : 8 June (Sat)</summary>
   Time spent: 3h
 
-  Continued on week 0 of cs50
-  Continued on the restaurant app
-  - Highlight selected category
-  - display popup of item details when item is selected
+  - Continued on week 0 of cs50
+  - Continued on the restaurant app
+    - Highlight selected category
+    - display popup of item details when item is selected
   
 </details>
 <details>
