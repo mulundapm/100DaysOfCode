@@ -27,6 +27,16 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 17 : 8 June (Sat)</summary>
+  Time spent: 3h
+
+  Continued on week 0 of cs50
+  Continued on the restaurant app
+  - Highlight selected category
+  - display popup of item details when item is selected
+  
+</details>
+<details>
   <summary>Day 16 : 7 June (Fri)</summary>
   Time spent: 1h
   
