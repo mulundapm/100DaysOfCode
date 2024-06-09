@@ -27,6 +27,15 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 18 : 9 June (Sun)</summary>
+  Time spent: 4h
+
+  - Continued on the restaurant app
+    - display popup of item details when item is selected
+  
+</details>
+<details>
+<details>
   <summary>Day 17 : 8 June (Sat)</summary>
   Time spent: 3h
 
