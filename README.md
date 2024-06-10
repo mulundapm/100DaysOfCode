@@ -32,7 +32,7 @@ Code at least an hour every day for the next 100 days
 
   - Read blogs on different methods on implementing a shopping cart, to add item to carts
 
-Thoughts: Used to follow a tutorial tightly on implementing a new features, i.e. tutorial hell. Changing things up and read/ watch until i fully understand, then write the psuedo code myself before implementing it, to have a better understanding and ownership to what i write. 
+Thoughts: Used to follow a tutorial closely when implementing a new features, i.e. tutorial hell. Changing things up and watch until i fully understand, then write the psuedo code myself before implementing it, to have a better understanding and ownership to what i write. 
   
 </details>
 <details>
