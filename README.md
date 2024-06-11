@@ -27,6 +27,15 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 19 : 11 June (Tue)</summary>
+  Time spent: 3h
+
+  - Implemented logic for shopping cart for my restaurant app 
+
+Thoughts: noticed i am weak in writing the syntax/ expression correctly. I get the logic but the writing it correctly is hard, hopefully its a beginner thing. 
+  
+</details>
+<details>
   <summary>Day 18 : 10 June (Mon)</summary>
   Time spent: 1h
 
