@@ -33,7 +33,7 @@ Code at least an hour every day for the next 100 days
   - Continued on the restaurant app
     - update quantity if same item is being resubmitted with a new value
 
-Thoughts: slow progress today, had to turn to chatgpt at last...
+Thoughts: slow progress today, had to turn to chatgpt at last... Learned new concepts tho, for react, when you want to replace one object in an array, you shouldnt mutate the state directly but rather create a new array and replace the old one with it. 
   
 </details>
 <details>
