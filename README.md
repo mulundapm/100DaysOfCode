@@ -27,6 +27,16 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 20 : 12 June (Tue)</summary>
+  Time spent: 2h
+
+  - Continued on the restaurant app
+    - update quantity if same item is being resubmitted with a new value
+
+Thoughts: slow progress today, had to turn to chatgpt at last...
+  
+</details>
+<details>
   <summary>Day 19 : 11 June (Tue)</summary>
   Time spent: 3h
 
