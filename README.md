@@ -27,7 +27,15 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
-  <summary>Day 20 : 12 June (Tue)</summary>
+  <summary>Day 21 : 13 June (Thu)</summary>
+  Time spent: 15min
+
+  - Continued on the restaurant app
+    - setting up the hamburger menu
+  
+</details>
+<details>
+  <summary>Day 20 : 12 June (Wed)</summary>
   Time spent: 2h
 
   - Continued on the restaurant app
