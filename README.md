@@ -27,6 +27,13 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 22 : 14 June (Fri)</summary>
+  Time spent: 30min
+
+  - complete cs50 week 0
+  
+</details>
+<details>
   <summary>Day 21 : 13 June (Thu)</summary>
   Time spent: 15min
 
