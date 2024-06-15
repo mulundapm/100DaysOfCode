@@ -27,6 +27,13 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 23 : 15 June (Sat)</summary>
+  Time spent: 1h
+
+  - Started on cs50 week 1, learning to program with c
+  
+</details>
+<details>
   <summary>Day 22 : 14 June (Fri)</summary>
   Time spent: 30min
 
