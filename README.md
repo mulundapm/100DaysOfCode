@@ -27,6 +27,16 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 24 : 16 June (Sun)</summary>
+  Time spent: 1.5h
+
+   - Continued on the restaurant app
+      - completing the hamburger menu
+      - update price depending on the amount of item users set in basket
+
+  Thought: Was out in the woods for the last couple days and it was nice to be back and code. Really glad to be done with another feature. The project is starting to be functional, looking forware to add this to my profolio as my first project. 
+</details>
+<details>
   <summary>Day 23 : 15 June (Sat)</summary>
   Time spent: 1h
 
