@@ -25,6 +25,14 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 25 : 17 June (Mon)</summary>
+  Time spent: 1h
+
+   - Continued on the restaurant app
+      - Filled in the content for about, review and contact page for the restaurant website
+
+</details>
+<details>
   <summary>Day 24 : 16 June (Sun)</summary>
   Time spent: 1.5h
 
