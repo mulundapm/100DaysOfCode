@@ -2,14 +2,12 @@
 Code at least an hour every day for the next 100 days
 
 ## Goal
-- ~~Complete Meta Front-End Developer Professional Certificate~~
+- Complete Meta Front-End Developer Professional Certificate ✅
 - Complete CS50 course
 - Build at least 1 project/ feature per week
-- Create fullstack projects for my pofolio
-- Get a hang of framework like tailwind and package management
-- Complete my presentable profolio
-- Create a library for iOS Shortcuts
-- Start on my scavenger project
+- Create fullstack projects for my profolio
+- Get a hang of/ start using tailwind, hosting and database
+- Complete and publish my presentable profolio
 
 ## Projects
 | No.  | Projects Title | Completed On | Language/ Tools used | 
