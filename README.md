@@ -31,7 +31,7 @@ Code at least an hour every day for the next 100 days
    - Continued on the restaurant app
       - Load cart items in the cart page, learned how to merge 2 array of objects based on a key
 
-  Thought: I think this is the first coding session where chat gpt was used at all, which im proud of. Progress? Anyway, I have joined buildspace, so will be working on a new project for the next 6 weeks. looking forward to get started.
+  Thought: I think this is the first coding session where chat gpt wasnt used at all, which im proud of. Progress? Anyway, I have joined buildspace, so will be working on a new project for the next 6 weeks. looking forward to get started.
 
 </details>
 <details>
