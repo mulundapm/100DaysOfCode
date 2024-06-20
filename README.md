@@ -25,6 +25,14 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 27 : 20 June (Wed)</summary>
+  Time spent: 1h
+
+   - Conceptualise and wireframing my next project for nights and weekends s5
+
+
+</details>
+<details>
   <summary>Day 26 : 19 June (Wed)</summary>
   Time spent: 1.5h
 
