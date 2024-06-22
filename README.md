@@ -26,11 +26,12 @@ Code at least an hour every day for the next 100 days
 ## 100 Days of Code log
 <details>
   <summary>Day 28 : 22 June (Wed)</summary>
-  Time spent: 8h
+  Time spent: 8+2h
 
   - Continued on the restaurant app
     - Backend Server Setup Using NodeJS and Express
     - Connect to Database using MongoDB Cloud
+    -  +2 just to figute out how to push my code to gh. Bruh, my gitignore was in the wrong directory and has messed up all my commits.. it was a painful 2h
 
 Thought: using database for the first time, was so hooked to get this to work that ive been sitting here 8h straight. loving this so far
 
