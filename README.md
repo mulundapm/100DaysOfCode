@@ -25,6 +25,17 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 28 : 22 June (Wed)</summary>
+  Time spent: 8h
+
+  - Continued on the restaurant app
+    - Backend Server Setup Using NodeJS and Express
+    - Connect to Database using MongoDB Cloud
+
+Thought: using database for the first time, was so hooked to get this to work that ive been sitting here 8h straight. loving this so far
+
+</details>
+<details>
   <summary>Day 27 : 20 June (Wed)</summary>
   Time spent: 1h
 
