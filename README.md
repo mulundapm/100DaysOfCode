@@ -25,12 +25,19 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
-  <summary>Day 29 : 25 June (Tue)</summary>
+  <summary>Day 30 : 25 June (Tue)</summary>
   Time spent: 2h
 
   - Started on my n&w project
 
 Thought: Havent been so active in updating status since i didnt exactly code, was mainly wireframing and solidating my app idea. Now the coding finally starts. Goal is to build a toy version of an app within a week to showcase my idea. 
+
+</details>
+<details>
+  <summary>Day 29 : 24 June (Tue)</summary>
+  Time spent: 3h
+
+  - Digital wireframing my app project
 
 </details>
 <details>
