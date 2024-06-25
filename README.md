@@ -25,7 +25,16 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
-  <summary>Day 28 : 22 June (Wed)</summary>
+  <summary>Day 29 : 25 June (Tue)</summary>
+  Time spent: 2h
+
+  - Started on my n&w project
+
+Thought: Havent been so active in updating status since i didnt exactly code, was mainly wireframing and solidating my app idea. Now the coding finally starts. Goal is to build a toy version of an app within a week to showcase my idea. 
+
+</details>
+<details>
+  <summary>Day 28 : 22 June (Sat)</summary>
   Time spent: 8+2h
 
   - Continued on the restaurant app
@@ -37,7 +46,7 @@ Thought: using database for the first time, was so hooked to get this to work th
 
 </details>
 <details>
-  <summary>Day 27 : 20 June (Wed)</summary>
+  <summary>Day 27 : 20 June (Thu)</summary>
   Time spent: 1h
 
    - Conceptualise and wireframing my next project for nights and weekends s5
