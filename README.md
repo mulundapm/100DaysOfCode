@@ -25,7 +25,7 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
-  <summary>Day 30-32 : 26-28 June (Wed-Fri)</summary>
+  <summary>Day 31-33 : 26-28 June (Wed-Fri)</summary>
   Time spent: 3h
 
   - Finish basic web set up and ui for homepage
