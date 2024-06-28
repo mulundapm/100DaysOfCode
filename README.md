@@ -25,6 +25,16 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 30-32 : 26-28 June (Wed-Fri)</summary>
+  Time spent: 3h
+
+  - Finish basic web set up and ui for homepage
+
+Thought: Like the fact that there are so many resource out there, really shroten the time for setting up an ok ui. 
+
+</details>
+
+<details>
   <summary>Day 30 : 25 June (Tue)</summary>
   Time spent: 2h
 
@@ -34,7 +44,7 @@ Thought: Havent been so active in updating status since i didnt exactly code, wa
 
 </details>
 <details>
-  <summary>Day 29 : 24 June (Tue)</summary>
+  <summary>Day 29 : 24 June (Mon)</summary>
   Time spent: 3h
 
   - Digital wireframing my app project
