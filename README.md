@@ -18,12 +18,21 @@ Code at least an hour every day for the next 100 days
 | 4 | [Memory game](https://github.com/mulundapm/jff-projects/tree/main/memo-game) | 15. May 2024 | CSS, React
 | 5 | [Currency convertor](https://github.com/mulundapm/jff-projects/tree/main/Calculator) | 24. May 2024 | CSS, React
 | 6 | [Currency convertor vanilla](https://github.com/mulundapm/jff-projects/tree/main/Currency%20vanilla) | 25. May 2024 | HTML, CSS, JS
-| 7 | [Restaurant booking app](https://github.com/mulundapm/restaurant-booking) | Ongoing | CSS, React
+| 7 | [Restaurant booking app](https://github.com/mulundapm/restaurant-booking) | Paused | CSS, React
+| 8 | Swipebite | Ongoing | React
 
 
 
 
 ## 100 Days of Code log
+<details>
+  <summary>Day 34-35 : 29-30 June (Sat-Sun)</summary>
+  Time spent: 2h
+
+  - Fixed the importing of data and add routing to restaurant page
+
+
+</details>
 <details>
   <summary>Day 31-33 : 26-28 June (Wed-Fri)</summary>
   Time spent: 3h
