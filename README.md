@@ -27,7 +27,7 @@ Code at least an hour every day for the next 100 days
 ## 100 Days of Code log
 <details>
   <summary>Day 34-35 : 29-30 June (Sat-Sun)</summary>
-  Time spent: 2h
+  Time spent: 3h
 
   - Fixed the importing of data and add routing to restaurant page
 
