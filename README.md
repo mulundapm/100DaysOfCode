@@ -26,6 +26,16 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 36-37 : 1-2 July (Mon-Tue)</summary>
+  Time spent: 2h
+
+  - Complete basic ui for restaurant page
+  - Complete bnasic ui for favourite page
+  - set up firebase project
+
+
+</details>
+<details>
   <summary>Day 34-35 : 29-30 June (Sat-Sun)</summary>
   Time spent: 3h
 
