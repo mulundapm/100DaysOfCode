@@ -26,6 +26,14 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 38 : 3 July (Wed)</summary>
+  Time spent: 3h
+
+  - set up firebase project
+
+
+</details>
+<details>
   <summary>Day 36-37 : 1-2 July (Mon-Tue)</summary>
   Time spent: 2h
 
