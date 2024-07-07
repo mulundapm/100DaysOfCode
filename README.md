@@ -19,12 +19,20 @@ Code at least an hour every day for the next 100 days
 | 5 | [Currency convertor](https://github.com/mulundapm/jff-projects/tree/main/Calculator) | 24. May 2024 | CSS, React
 | 6 | [Currency convertor vanilla](https://github.com/mulundapm/jff-projects/tree/main/Currency%20vanilla) | 25. May 2024 | HTML, CSS, JS
 | 7 | [Restaurant booking app](https://github.com/mulundapm/restaurant-booking) | Paused | CSS, React
-| 8 | Swipebite | Ongoing | React
+| 8 | [Swipebite](https://swipact-4e2a4.web.app/) | Ongoing | React
 
 
 
 
 ## 100 Days of Code log
+<details>
+  <summary>Day 39-42 : 4-7 July (Wed)</summary>
+  Time spent: 13h
+
+  - Finished the toy version to demo my app idea
+
+Thought: This is exciting. Finally finish up a demo of the app I want to build. Can wait to get some feedback!
+</details>
 <details>
   <summary>Day 38 : 3 July (Wed)</summary>
   Time spent: 3h
