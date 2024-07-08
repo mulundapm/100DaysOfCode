@@ -5,8 +5,8 @@ Code at least an hour every day for the next 100 days
 - Complete Meta Front-End Developer Professional Certificate ✅
 - Complete CS50 course
 - Build at least 1 project/ feature per week
-- Create fullstack projects for my profolio
-- Get a hang of/ start using tailwind, hosting and database
+- Create fullstack projects for my profolio ✅
+- Get a hang of/ start using tailwind 🤨, hosting ✅ and database ✅
 - Complete and publish my presentable profolio
 
 ## Projects
