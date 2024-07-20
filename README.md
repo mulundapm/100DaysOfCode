@@ -26,12 +26,22 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 43 : 20 July (Sat)</summary>
+  Time spent: 3h
+
+  - wire the app up with firebase to fetch menu item and image
+  - struggling on how to get parent collection of docs
+  - researching on scraping data from Google map 
+
+Thought: finally had the time to do some coding, love seeing progress but starting to doubt if Firebase was a good choice for the app. nosql database is making less and less sense to me.  
+</details>
+<details>
   <summary>Day 39-42 : 4-7 July (Wed)</summary>
   Time spent: 13h
 
   - Finished the toy version to demo my app idea
 
-Thought: This is exciting. Finally finish up a demo of the app I want to build. Can wait to get some feedback!
+Thought: This is exciting. Finally finish up a demo of the app I want to build. Cant wait to get some feedback!
 </details>
 <details>
   <summary>Day 38 : 3 July (Wed)</summary>
