@@ -26,6 +26,14 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 44 : 21 July (Sun)</summary>
+  Time spent: 4h
+
+  - removing hardcoded data and fetching data from various collections
+
+Thought: just 3 components left then I can start with scraping and importing. will be signing off now for 2 weeks summer holiday, hopefully i'll still remember how to commit by then. 
+</details>
+<details>
   <summary>Day 43 : 20 July (Sat)</summary>
   Time spent: 3h
 
