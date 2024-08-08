@@ -26,6 +26,16 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 45 : 8 Aug (Thu)</summary>
+  Time spent: 2.5h
+
+  - host entire app and data on firebase
+  - research on using google map api
+
+Thought: finally done working with fetching data and can move on to a new topic which is showing restaurant location on a map. decided to put code in public after this is done.
+
+</details>
+<details>
   <summary>Day 44 : 21 July (Sun)</summary>
   Time spent: 4h
 
