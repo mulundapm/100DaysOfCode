@@ -26,6 +26,15 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 46 : 10 Aug (Sat)</summary>
+  Time spent: 2h
+
+  - setting up google map api
+
+Thought: spent large amount of time on old mistake about framework's naming convention for .env. Going to set up geocoding for address, to pin the restaurant on map. 
+
+</details>
+<details>
   <summary>Day 45 : 8 Aug (Thu)</summary>
   Time spent: 2.5h
 
