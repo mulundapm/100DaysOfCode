@@ -26,6 +26,15 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 47 : 11 Aug (Sun)</summary>
+  Time spent: 2h
+
+  - geocoding from restaurant address
+
+Thought: finally done with setting up the restaurant details page and google map api. Will be moving on to scrape data so the app will soon be usable. also had to update all api key.. hehe.. 
+
+</details>
+<details>
   <summary>Day 46 : 10 Aug (Sat)</summary>
   Time spent: 2h
 
