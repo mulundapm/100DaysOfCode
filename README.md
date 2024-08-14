@@ -23,8 +23,17 @@ Code at least an hour every day for the next 100 days
 
 
 
-
 ## 100 Days of Code log
+<details>
+  <summary>Day 48 : 14 Aug (Wed)</summary>
+  Time spent: 2h
+
+  - not a single line of code
+  - https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDIwaWk5dzdqbnl0OXA4c3psNng3NTFkY2Zyd292ZGMybXI3b3dvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h36vh423PiV9K/giphy.gif
+
+Thought: researching data stucture and how i should scrape and host the data
+
+</details>
 <details>
   <summary>Day 47 : 11 Aug (Sun)</summary>
   Time spent: 2h
