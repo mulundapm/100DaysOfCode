@@ -26,10 +26,11 @@ Code at least an hour every day for the next 100 days
 ## 100 Days of Code log
 <details>
   <summary>Day 49 : 18 Aug (Sun)</summary>
-  Time spent: 2h
+  Time spent: 2.5h
 
   - clean up react error messages
   - data scraping
+  - delete my commit histories and update api keys before making my repo public (yes.. took me a while to find out .env is not ignored)
 
 Thought: As a test, scraped 100 restaurants in oslo. Preparing the data for our app implementation. Probably have to make a script to extract and finetoning the data
 
