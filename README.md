@@ -25,6 +25,16 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 50 : 19 Aug (Mon)</summary>
+  Time spent: 1.5h
+
+  - writing script for extracting data from spreadsheet
+  - reading docs on importing data to firebase
+
+Thought: half way through the challenge it is. 
+
+</details>
+<details>
   <summary>Day 49 : 18 Aug (Sun)</summary>
   Time spent: 2.5h
 
