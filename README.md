@@ -25,6 +25,16 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 51 : 21 Aug (Wed)</summary>
+  Time spent: 3h
+
+  - formatting and handling google map data
+  - importing data to firebase
+
+Thought: finally get to display data from google map into the app. another miøestone. going to update some component to match the format and figure out importing of sub collections when data are scraped seperatly.
+
+</details>
+<details>
   <summary>Day 50 : 19 Aug (Mon)</summary>
   Time spent: 1.5h
 
