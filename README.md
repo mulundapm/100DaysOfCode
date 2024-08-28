@@ -25,6 +25,28 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 53 : 28 Aug (Wed)</summary>
+  Time spent: 6h
+
+  - edit flappy bird into a "coinrace"
+  - creating assets
+  - swipebite app loads all neccessary scraped data
+
+Thought: 4 hours straight without leaving my desk or being on my phone. boy i was in the zone. 
+
+</details>
+<details>
+  <summary>Day 52 : 27 Aug (Tue)</summary>
+  Time spent: 2h
+
+  - testing godot out
+  - made a flappy bird game frome a tutorial
+  - struggled with git
+
+Thought: this is fun and im surprised how easy it is to make a mini game. Gotta try doing it from scratch soon. Self confidience peaked after making the game then quickly humbled by git when trying to push the game to gh
+
+</details>
+<details>
   <summary>Day 51 : 21 Aug (Wed)</summary>
   Time spent: 3h
 
