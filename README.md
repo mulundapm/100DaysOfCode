@@ -25,6 +25,18 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 54 : 29 Aug (Thur)</summary>
+  Time spent: 3h
+
+  - fix display of my facourite page
+  - minor ui improvement
+  - research how i can restructure my app to interact with scraper api
+  - doubting if i have really screwed up by going for firebase for my project
+
+Thought: should have done more research being choosing firebase.. it sounds attractive and easy to use, turns out to have many limitation. but then, it is through doing you get to know how much you didnt know from before. 
+
+</details>
+<details>
   <summary>Day 53 : 28 Aug (Wed)</summary>
   Time spent: 6h
 
