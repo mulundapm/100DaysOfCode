@@ -4,8 +4,7 @@ Code at least an hour every day for the next 100 days
 ## Goal
 - Complete Meta Front-End Developer Professional Certificate ✅
 - Complete CS50 course
-- Build at least 1 project/ feature per week
-- Create fullstack projects for my profolio ✅
+- Create fullstack projects for my profolio 
 - Get a hang of/ start using tailwind 🤨, hosting ✅ and database ✅
 - Complete and publish my presentable profolio
 
@@ -24,6 +23,15 @@ Code at least an hour every day for the next 100 days
 
 
 ## 100 Days of Code log
+<details>
+  <summary>Day 55 : 20 Oct (Saturday)</summary>
+  Time spent: 1h
+
+  - start setting up backend for swipebite
+
+Thought: Been a hectic 2 months and finally back to my projects. 🔥 Decided to scrap firebase and learn to build backend from scratch. 
+
+</details>
 <details>
   <summary>Day 54 : 29 Aug (Thur)</summary>
   Time spent: 3h
