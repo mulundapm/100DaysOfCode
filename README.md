@@ -24,6 +24,15 @@ Code at least an hour every day for the next 100 days
 
 ## 100 Days of Code log
 <details>
+  <summary>Day 56 : 27 Oct (Sunday)</summary>
+  Time spent: 2h
+
+  - setting up backend for swipebite
+
+Thought: gotta make more time for this
+
+</details>
+<details>
   <summary>Day 55 : 20 Oct (Saturday)</summary>
   Time spent: 1h
 
